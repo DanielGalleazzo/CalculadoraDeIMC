@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\bin\Debug\net8.0\CalculadoraDeImc.exe
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\bin\Debug\net8.0\CalculadoraDeImc.deps.json
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\bin\Debug\net8.0\CalculadoraDeImc.runtimeconfig.json
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\bin\Debug\net8.0\CalculadoraDeImc.dll
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\bin\Debug\net8.0\CalculadoraDeImc.pdb
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.AssemblyInfo.cs
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.dll
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\refint\CalculadoraDeImc.dll
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.pdb
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\CalculadoraDeImc.genruntimeconfig.cache
+C:\Users\danie\Desktop\CalculadoraDeImc\CalculadoraDeImc\obj\Debug\net8.0\ref\CalculadoraDeImc.dll

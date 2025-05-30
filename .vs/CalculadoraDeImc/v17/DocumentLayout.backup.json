@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\CalculadoraDeImc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE8CD0-814A-4567-9F6E-642C9520E48D}|CalculadoraDeImc\\CalculadoraDeImc.csproj|c:\\users\\danie\\desktop\\calculadoradeimc\\calculadoradeimc\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE8CD0-814A-4567-9F6E-642C9520E48D}|CalculadoraDeImc\\CalculadoraDeImc.csproj|solutionrelative:calculadoradeimc\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE8CD0-814A-4567-9F6E-642C9520E48D}|CalculadoraDeImc\\CalculadoraDeImc.csproj|c:\\users\\danie\\desktop\\calculadoradeimc\\calculadoradeimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AE8CD0-814A-4567-9F6E-642C9520E48D}|CalculadoraDeImc\\CalculadoraDeImc.csproj|solutionrelative:calculadoradeimc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\CalculadoraDeImc\\CalculadoraDeImc\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeImc\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\CalculadoraDeImc\\CalculadoraDeImc\\Program.cs",
+              "RelativeToolTip": "CalculadoraDeImc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:28:57.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\CalculadoraDeImc\\CalculadoraDeImc\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeImc\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\CalculadoraDeImc\\CalculadoraDeImc\\Pessoa.cs*",
+              "RelativeToolTip": "CalculadoraDeImc\\Pessoa.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T01:29:18.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
